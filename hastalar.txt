@@ -1,0 +1,13 @@
+Yusuf,Karakoç,12345678900,1234,
+Yiğit,Küçük,1234678911,0987,
+İlayda,Altuntaş,123123123,123,
+İlayda,Altuntaş,1234567890098765432,12345678900987654321,Astım
+Ceylin,Altuntaş,7777,1111,Darp
+Ayşe,Kara,123456789099,999,Astım
+ayşe,kara,12345678901,123,
+semih,tırpancı,12345678909,123,
+semih,tırpancı,12345678912,123,
+0,0,0,0,
+kader,tırpancı,11112222333,123,
+süleyman,karaca,11112222333,321,
+yiğit,küçük,12222222222,123,

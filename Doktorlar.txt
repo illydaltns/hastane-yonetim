@@ -1,0 +1,20 @@
+Ahmet,Koç,56789012345,Ahmet567,Üroloji,11:00-19:00
+Ali,Yılmaz,12345678901,Ali123,Kardiyoloji,08:00-19:00
+Ayşe,Demir,23456789012,Ayse234,Ortopedi,08:00-16:00
+Burak,Yıldırım,33445566778,Burak334,Genel Cerrahi,09:00-17:00
+Cemre,Bulut,66778899001,Cemre667,Hematoloji,09:00-17:00
+Deniz,Çetin,77889900112,Deniz778,Nefroloji,08:00-16:00
+Elif,Aksoy,89012345678,Elif890,Psikiyatri,10:00-18:00
+Emine,Güneş,01234567890,Emine012,Fizik Tedavi,09:00-17:00
+Fatma,Çelik,45678901234,Fatma456,Dermatoloji,09:00-15:00
+Gül,Taş,22334455667,Gul223,Radyoloji,08:00-16:00
+Hakan,Yalçın,88990011223,Hakan889,Onkoloji,10:00-18:00
+Hasan,Başar,78901234567,Hasan789,KBB,09:00-17:00
+Kemal,Ersoy,55667788990,Kemal556,Endokrinoloji,08:00-16:00
+Leyla,Polat,44556677889,Leyla445,Plastik Cerrahi,10:00-18:00
+Mehmet,Kaya,34567890123,M12345,Nöroloji,10:00-18:00
+Melike,Akın,99001122334,Melike990,Rehabilitasyon,09:00-15:00
+Murat,Öztürk,90123456789,Murat901,Çocuk Hastalıkları,08:00-16:00
+Okan,Demirtaş,10011223344,Okan100,Kalp Damar Cerrahisi,08:00-14:00
+Selim,Arslan,11223344556,Selim112,Anestezi,07:00-15:00
+Zeynep,Şahin,67890123456,Zeynep678,Göz Hastalıkları,08:00-16:00

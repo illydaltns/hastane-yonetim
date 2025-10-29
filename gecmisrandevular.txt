@@ -1,0 +1,6 @@
+123456789099, Ayşe, Kara, 12345678901, Ali Yılmaz, Kardiyoloji, 2024-12-15, 11:30, kanser
+11112222333, süleyman, karaca, 56789012345, Ahmet Koç, Üroloji, 2025-11-17, 11:00, kırık
+11112222333, süleyman, karaca, 45678901234, Fatma Çelik, Dermatoloji, 2025-12-25, 10:00, ameliyat
+12222222222, yiğit, küçük, 89012345678, Elif Aksoy, Psikiyatri, 2025-09-05, 12:00, şizofreni
+11112222333, süleyman, karaca, 12345678901, Ali Yılmaz, Kardiyoloji, 2024-12-28, 11:00, Sakatlık
+11112222333, süleyman, karaca, 12345678901, Ali Yılmaz, Kardiyoloji, 2024-11-15, 11:00, şeker
